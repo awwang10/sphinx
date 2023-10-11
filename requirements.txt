@@ -1,0 +1,8 @@
+gym==0.25.2
+gymnasium==0.29.1
+matplotlib==3.6.3
+numpy==1.26.0
+tensorboardX==2.5.1
+torch==1.13.1
+torch_ac==1.4.0
+tqdm==4.66.1
