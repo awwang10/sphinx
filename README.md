@@ -1,7 +1,7 @@
 # Learning Belief Representations for Partially Observable Deep RL
 
 ## Introduction
-This is the accompanying repository for the paper Learning Belief Representations for Partially Observable Deep RL.
+This is the accompanying repository for the paper [Learning Belief Representations for Partially Observable Deep RL](https://proceedings.mlr.press/v202/wang23p/wang23p.pdf) (ICML 2023).
 
 By Andrew Wang*, Andrew C Li*, Toryn Q. Klassen, Rodrigo Toro Icarte, Sheila A. McIlraith
 
